@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Cookietopia/30-nites-of-code)  
+  ![@Cookietopia #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Cookietopia)
+
 <!--
 **hieu180230/hieu180230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
